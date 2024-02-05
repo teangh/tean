@@ -1,0 +1,717 @@
+*
+{
+	white-space: normal;
+	word-break: break-all;
+}
+SPAN.HTML A
+{
+	color: green;
+	text-decoration: none;
+}
+SPAN.C1HIndex A
+{
+	color: windowtext;
+	text-decoration: none;
+}
+SPAN.C1HPopup A
+{
+	color: windowtext;
+	text-decoration: none;
+}
+SPAN.C1HJump A
+{
+	color: windowtext;
+	text-decoration: none;
+}
+SPAN.D2HNoGloss A
+{
+	color: windowtext;
+	text-decoration: none;
+}
+SPAN.MsoHyperlinkFollowed A
+{
+	color: purple;
+	text-decoration: underline;
+}
+SPAN.MsoHyperlink A
+{
+	color: blue;
+	text-decoration: underline;
+}
+SPAN.MsoFootnoteReference A
+{
+	color: windowtext;
+	text-decoration: none;
+}
+P.MsoNormal
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Verdana;
+}
+H1
+{
+	font-weight: bold;
+	font-size: 20pt;
+	margin: 10pt 0cm 8pt;
+	font-family: Verdana;
+}
+H2
+{
+	font-weight: bold;
+	font-size: 16pt;
+	margin: 9pt 0cm 7pt;
+	font-family: Verdana;
+}
+H3
+{
+	font-weight: bold;
+	font-size: 16pt;
+	margin: 9pt 0cm 7pt;
+	font-family: Verdana;
+}
+H4
+{
+	font-weight: bold;
+	font-size: 12pt;
+	margin: 2pt 0cm;
+	font-family: Verdana;
+}
+H5
+{
+	font-weight: bold;
+	font-size: 10pt;
+	margin: 6pt 0cm 0pt;
+	font-family: Verdana;
+}
+H6
+{
+	font-weight: bold;
+	font-size: 11pt;
+	margin: 12pt 0cm 3pt;
+	font-family: Verdana;
+}
+P.MsoHeading7
+{
+	font-size: 12pt;
+	margin: 12pt 0cm 3pt;
+	font-family: Verdana;
+}
+P.MsoHeading8
+{
+	font-size: 12pt;
+	margin: 12pt 0cm 3pt;
+	font-style: italic;
+	font-family: Verdana;
+}
+P.MsoHeading9
+{
+	font-size: 11pt;
+	margin: 12pt 0cm 3pt;
+	font-family: Verdana;
+}
+P.MsoIndex1
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Verdana;
+}
+P.MsoIndex2
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt 18pt;
+	font-family: Verdana;
+}
+P.MsoIndex3
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt 36pt;
+	font-family: Verdana;
+}
+P.MsoToc1
+{
+	font-weight: bold;
+	font-size: 14pt;
+	margin: 12pt 0cm 6pt;
+	font-family: Verdana;
+}
+P.MsoToc2
+{
+	font-size: 11pt;
+	margin: 3pt 0cm;
+	font-family: Verdana;
+	text-decoration: underline;
+	text-underline: double;
+}
+P.MsoToc3
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Verdana;
+}
+P.MsoToc4
+{
+	font-size: 10pt;
+	margin: 0cm 36pt 0pt 108pt;
+	font-family: Verdana;
+}
+P.MsoNormalIndent
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt 36pt;
+	font-family: Verdana;
+}
+P.MsoFootnoteText
+{
+	font-weight: bold;
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Arial;
+}
+P.MsoHeader
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Arial;
+	tab-stops: right 486.0pt;
+}
+P.MsoFooter
+{
+	border-right: medium none;
+	padding-right: 0cm;
+	border-top: medium none;
+	padding-left: 0cm;
+	font-size: 10pt;
+	padding-bottom: 0cm;
+	margin: 0cm 0cm 0pt;
+	border-left: medium none;
+	padding-top: 0cm;
+	border-bottom: medium none;
+	font-family: Arial;
+	tab-stops: right 486.0pt;
+}
+P.MsoIndexHeading
+{
+	font-weight: bold;
+	font-size: 11pt;
+	margin: 15.1pt 0cm 6.1pt;
+	font-family: Verdana;
+}
+P.MsoCaption
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 8pt;
+	line-height: 14pt;
+	font-style: italic;
+	font-family: Verdana;
+	tab-stops: 18.0pt 36.0pt;
+}
+SPAN.MsoFootnoteReference
+{
+	color: windowtext;
+	position: relative;
+	top: -3pt;
+	text-decoration: none;
+}
+P.MsoToaHeading
+{
+	font-weight: bold;
+	font-size: 12pt;
+	margin: 6pt 0cm 0pt;
+	font-family: Verdana;
+}
+P.MsoList
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 18pt;
+	text-indent: -18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: 18.0pt;
+}
+P.MsoList2
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 36pt;
+	text-indent: -18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: 36.0pt;
+}
+P.MsoTitle
+{
+	font-weight: bold;
+	font-size: 36pt;
+	margin: 12.1pt 0cm 36.1pt;
+	font-family: Verdana;
+	text-align: right;
+}
+P.MsoBodyText
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.MsoListContinue
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.MsoListContinue2
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 36pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+SPAN.MsoHyperlink
+{
+	color: blue;
+	text-decoration: underline;
+	text-underline: single;
+}
+SPAN.MsoHyperlinkFollowed
+{
+	color: purple;
+	text-decoration: underline;
+	text-underline: single;
+}
+P.MsoDocumentMap
+{
+	font-size: 10pt;
+	background: navy;
+	margin: 0cm 0cm 0pt;
+	font-family: Tahoma;
+}
+P
+{
+	font-size: 12pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Verdana;
+}
+P.HeadingBase
+{
+	font-weight: bold;
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Verdana;
+}
+P.Definition
+{
+	font-size: 10pt;
+	margin: 5.75pt 0cm 0pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.TOCBase
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Verdana;
+}
+P.IndexBase
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Verdana;
+}
+P.HeaderBase
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Arial;
+}
+P.TableText
+{
+	font-size: 9pt;
+	margin: 2pt 3.6pt;
+	font-family: Verdana;
+}
+P.TOCTitle
+{
+	font-weight: bold;
+	font-size: 24pt;
+	margin: 9pt 0cm 7pt;
+	font-family: Verdana;
+}
+P.ListTable
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 18pt;
+	text-indent: -18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: 18.0pt 36.0pt;
+}
+P.MarginNote
+{
+	font-size: 10pt;
+	margin: 3pt 0cm;
+	line-height: 14pt;
+	font-style: italic;
+	font-family: Verdana;
+}
+P.SuperTitle
+{
+	border-right: medium none;
+	padding-right: 0cm;
+	border-top: medium none;
+	padding-left: 0cm;
+	font-weight: bold;
+	font-size: 14pt;
+	padding-bottom: 0cm;
+	margin: 48pt 0cm 0pt 72pt;
+	border-left: medium none;
+	padding-top: 0cm;
+	border-bottom: medium none;
+	font-family: Verdana;
+	text-align: right;
+}
+P.ByLine
+{
+	font-weight: bold;
+	font-size: 14pt;
+	margin: 12.1pt 0cm 36.1pt;
+	font-family: Verdana;
+	text-align: right;
+}
+P.CodeExplained
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 2pt 36pt;
+	line-height: 14pt;
+	font-family: "Courier New";
+}
+P.CodeBase
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt;
+	line-height: 14pt;
+	font-family: "Courier New";
+}
+P.Source
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt 36pt;
+	line-height: 14pt;
+	font-family: "Courier New";
+	tab-stops: 54.0pt 72.0pt 90.0pt 108.0pt 126.0pt 144.0pt 162.0pt 180.0pt 198.0pt 216.0pt 234.0pt 252.0pt 270.0pt 288.0pt 306.0pt;
+}
+P.Figures
+{
+	font-size: 10pt;
+	margin: 3pt 0cm;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: 18.0pt 36.0pt;
+}
+P.FiguresTable
+{
+	font-size: 10pt;
+	margin: 3pt 0cm;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: 18.0pt 36.0pt;
+}
+P.BodyTable
+{
+	font-size: 10pt;
+	margin: 5.75pt 0cm 0pt;
+	font-family: Verdana;
+}
+P.BodyTextTable
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.TableHeading
+{
+	font-weight: bold;
+	font-size: 10pt;
+	margin: 3pt 3.6pt 0pt;
+	font-family: Verdana;
+}
+P.SourceTop
+{
+	font-size: 10pt;
+	margin: 5.75pt 0cm 0pt 36pt;
+	line-height: 14pt;
+	font-family: "Courier New";
+	tab-stops: 54.0pt 72.0pt 90.0pt 108.0pt 126.0pt 144.0pt 162.0pt 180.0pt 198.0pt 216.0pt 234.0pt 252.0pt 270.0pt 288.0pt 306.0pt;
+}
+P.Note
+{
+	border-right: medium none;
+	padding-right: 0cm;
+	border-top: medium none;
+	padding-left: 0cm;
+	font-size: 10pt;
+	padding-bottom: 0cm;
+	margin: 9pt 0cm;
+	border-left: medium none;
+	line-height: 14pt;
+	padding-top: 0cm;
+	border-bottom: medium none;
+	font-family: Verdana;
+}
+P.List2Table
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 36pt;
+	text-indent: -18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: 36.0pt;
+}
+P.RelatedHead
+{
+	font-weight: bold;
+	font-size: 11pt;
+	margin: 9pt 0cm 1pt;
+	color: blue;
+	font-family: Verdana;
+}
+SPAN.RelatedHead
+{
+	color: blue;
+	text-decoration: none;
+}
+P.Jump
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 3pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.TableBorder
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	line-height: 1pt;
+	font-family: Verdana;
+}
+P.headereven
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Arial;
+	tab-stops: right 486.0pt;
+}
+P.headerodd
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Arial;
+	tab-stops: right 486.0pt;
+}
+SPAN.D2HNoGloss
+{
+	color: windowtext;
+	text-decoration: none;
+}
+P.footereven
+{
+	border-right: medium none;
+	padding-right: 0cm;
+	border-top: medium none;
+	padding-left: 0cm;
+	font-size: 10pt;
+	padding-bottom: 0cm;
+	margin: 0cm 0cm 0pt;
+	border-left: medium none;
+	padding-top: 0cm;
+	border-bottom: medium none;
+	font-family: Arial;
+	tab-stops: right 486.0pt;
+}
+P.C1HBullet
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 36pt;
+	text-indent: -18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: list 36.0pt;
+}
+P.C1HBullet2
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 54pt;
+	text-indent: -18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: list 54.0pt;
+}
+P.C1HBullet2A
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 54pt;
+	text-indent: -18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: list 54.0pt;
+}
+P.C1HNumber
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 36pt;
+	text-indent: -18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: list 36.0pt;
+}
+P.C1HNumber2
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 54pt;
+	text-indent: -18pt;
+	line-height: 14pt;
+	font-family: Verdana;
+	tab-stops: list 54.0pt;
+}
+P.C1HContinue
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 36pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.C1HContinue2
+{
+	font-size: 10pt;
+	margin: 5pt 0cm 0pt 54pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+SPAN.C1HJump
+{
+	color: windowtext;
+	text-decoration: none;
+}
+SPAN.C1HPopup
+{
+	color: windowtext;
+	text-decoration: none;
+}
+SPAN.C1HIndex
+{
+	color: windowtext;
+	text-decoration: none;
+}
+P.footerodd
+{
+	border-right: medium none;
+	padding-right: 0cm;
+	border-top: medium none;
+	padding-left: 0cm;
+	font-size: 10pt;
+	padding-bottom: 0cm;
+	margin: 0cm 0cm 0pt;
+	border-left: medium none;
+	padding-top: 0cm;
+	border-bottom: medium none;
+	font-family: Arial;
+	tab-stops: right 486.0pt;
+}
+P.MidTopic
+{
+	font-weight: bold;
+	font-size: 16pt;
+	margin: 9pt 0cm 7pt;
+	font-family: Verdana;
+}
+P.WhatsThis
+{
+	font-weight: bold;
+	font-size: 16pt;
+	margin: 9pt 0cm 7pt;
+	font-family: Verdana;
+}
+P.CaptionTable
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 8pt;
+	line-height: 14pt;
+	font-style: italic;
+	font-family: Verdana;
+	tab-stops: 18.0pt 36.0pt;
+}
+P.GlossaryTerm
+{
+	font-size: 11pt;
+	margin: 2pt 0cm;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.JumpBase
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 3pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.JumpfromContents
+{
+	font-weight: bold;
+	font-size: 11pt;
+	margin: 1pt 0cm 3pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.JumpfromList
+{
+	font-size: 10pt;
+	margin: 0cm 0cm 3pt;
+	line-height: 14pt;
+	font-family: Verdana;
+}
+P.KeywordLink
+{
+	border-right: medium none;
+	padding-right: 0cm;
+	border-top: medium none;
+	padding-left: 0cm;
+	font-weight: bold;
+	font-size: 11pt;
+	padding-bottom: 0cm;
+	margin: 9pt 0cm 1pt;
+	border-left: medium none;
+	color: blue;
+	padding-top: 0cm;
+	border-bottom: medium none;
+	font-family: Verdana;
+}
+SPAN.HTML
+{
+	color: green;
+	text-decoration: none;
+}
+TABLE.MsoNormalTable
+{
+	font-size: 10pt;
+	font-family: "Times New Roman";
+}
+P.1
+{
+	TEXT-JUSTIFY: inter-ideograph;
+	font-size: 10.5pt;
+	margin: 0cm 0cm 0pt;
+	font-family: Verdana;
+	text-align: justify;
+}
+P.smalltitle
+{
+	font-weight: bold;
+	TEXT-JUSTIFY: inter-ideograph;
+	font-size: 10.5pt;
+	margin: 0cm 0cm 0pt 18pt;
+	text-indent: -18pt;
+	font-family: Verdana;
+	text-align: justify;
+	tab-stops: list 18.0pt;
+}
