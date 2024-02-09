@@ -1,0 +1,30 @@
+﻿html,body,div,span,h1,h2,h3,h4,h5,h6,p,a,em,img,sub,sup,dl,dt,dd,ol,ul,li,form,input,button,label,textarea,table,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;}
+body{ font-size:12px; line-height:1.5; font-weight:400;color:#000; background:#f5f5f5;font:normal 400 12px/1.5 Microsoft YaHei,Arial;}
+a{text-decoration:none;color:#333;}
+a:hover{text-decoration:none;}
+h1,h2,h3,h4,h5,h6,strong{font-weight:800;font-size:100%;}
+em{font-style:normal;}
+h1{font-size:18px;}h2{font-size:16px;}h3{font-size:14px;}h4,h5,h6{font-size:12px;}
+label,input,select,textarea{vertical-align:middle; font-family:Microsoft YaHei,Arial;}
+img,button{background:none;border:none;}
+ol,ul,li{list-style:none;}
+
+.navList{ overflow:hidden;margin:0 0 3%;}
+.navList li{ float:left; width:30%; margin:3% 0 0 2.6%;}
+.navList li a{ width:100%; display:block; background:#5060B2; color:#fff; font-size:18px; font-weight:800; text-align:center; border-radius:3px;}
+.navList li a img{ width:100%;display:block;border-radius:3px;}
+.navList li a span{ padding:5px 10px; display:block; line-height:50px; height:50px; overflow:hidden;border-radius:3px;}
+.navList li.goback a{ background:#777;}
+
+.body{ width:100%;}
+
+#top{width:100%;height:50px; background:#006699;position:fixed; opacity:0.9; z-index:999; top:0; left:0;}
+#topZan{ height:50px;}
+#top .topMain{width:100%;height:50px; background:#006699;text-align:center;line-height:50px; position:relative;}
+#top .topTit{ font-size:18px;color:#fff;font-weight:800;}
+#top .topTit img{ height:30px; margin-top:10px;}
+.topBack{ height:50px; width:50px;position:absolute; top:0; left:0;}
+.topBack img{ height:50px;}
+.topNav{ width:62px; height:30px; float:right; background:url(navBtn1.png) 0 0 no-repeat;-webkit-background-size:62px 30px; background-size:62px 30px;position:absolute; top:10px; right:10px;}
+.topNavCur{width:62px; height:30px; float:right; background:url(navBtn.png) 0 0 no-repeat;-webkit-background-size:62px 30px; background-size:62px 30px;position:absolute; top:10px; right:10px; display:none;}
+.disNav{ background:#fff; border-bottom:1px solid #ddd; width:100%; position:fixed; top:50px; left:0; z-index:999;}

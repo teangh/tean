@@ -1,0 +1,24 @@
+@media (max-width:480px){
+body {
+    font-size: 120%; 
+    font-family:Helvetica,STHeiti,Droid Sans Fallback;
+    -webkit-text-size-adjust: 120%;
+    -ms-text-size-adjust: 120%;
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+/* вўВи */
+div.ds{max-width:480px;width:100%;margin-left:0px;}
+.ds h1{font-size:16px;margin-top:-60px;margin-left:-120px;}
+.ds h1 font{display:none;}
+table.ms{max-width:480px;width:100%;margin:0 auto;TEXT-ALIGN:center;BORDER: #ccc 0px solid;display:inline-block;}
+.ms tr{width:100%;display:inline}
+.ms td{float:left;width:46%;display:inline-block;height:45px;line-height:45px;overflow:hidden;}
+.bs{max-width:480px;width:100%}
+div.souso{max-width:480px;width:94%;}
+.souso .rm{display:none;}
+.souso .so{width:90%;height:80px;display:inline-block;}
+.souso .so INPUT,SELECT{line-hegith:40px;font-size:20px;display:inline}
+.souso .so .searchtxt{width:49%;display:inline}
+.ks{}
+.ks a{font-size:18px;padding-top:7px;}
+.ask{display:none;}
